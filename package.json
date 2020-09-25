@@ -1,0 +1,26 @@
+{
+  "name": "geojson-linestring-concat",
+  "version": "0.1.0-alpha.1",
+  "description": "Concatenate GeoJSON LineStrings as much as possible.",
+  "license": "MIT",
+  "author": "cXiaof",
+  "main": "dist/index.js",
+  "keywords": [
+    "geojson",
+    "linestring",
+    "concat",
+    "dissolve",
+    "connect"
+  ],
+  "homepage": "https://github.com/cXiaof/geojson-linestring-concat",
+  "bugs": {
+    "url": "https://github.com/cXiaof/geojson-linestring-concat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cXiaof/geojson-linestring-concat.git"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
