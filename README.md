@@ -6,6 +6,7 @@ Concatenate GeoJSON LineStrings as much as possible.
 
 -   Install with npm: `npm install geojson-linestring-concat`.
 -   Install with yarn: `yarn add geojson-linestring-concat`.
+-   Use CDN: `https://cdn.jsdelivr.net/npm/geojson-linestring-concat`
 
 ## Usage
 
